@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently a Student [PG]<br>🌱 I’m currently learning Data Science <br>⚡ Computer Science Engineer Graduate<br>
 
 
